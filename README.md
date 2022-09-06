@@ -7,7 +7,9 @@
 #### [Uploaded in nuget](https://www.nuget.org/packages/ItsWorkingDay)
 
 ### How to use
-#### Call ItsWorkingDay.IsHoliday(day), passing the day (dd/MM/yyyy) that you want to check is a holiday or not.
+#### ItsWorkingDay.CheckDate.IsHoliday(day), passing the day (dd/MM/yyyy), to check if is a holiday.
+#### ItsWorkingDay.CheckDate.IsWeekend(day), passing the day (dd/MM/yyyy), to check if is a weekend.
+#### ItsWorkingDay.CheckDate.HolidayName(day, passing the day (dd/MM/yyyy), to get holiday name.
 
 ### Souce
 #### [File link with the holidays](https://www.anbima.com.br/feriados/feriados.asp)
